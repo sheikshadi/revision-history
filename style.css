@@ -63,3 +63,33 @@ footer h1{
 footer p {
     text-align: center;
 }
+
+.button1 {
+    background-color: orange;
+}
+
+    
+.button1 {
+    border: none;
+    color: white;
+    padding:15px 95px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 10px ;
+    border-radius: 22px;
+  }
+
+ .button2{
+     background-color: orangered;
+ } 
+ .button2{
+     border: none;
+     color: #fff;
+     padding: 15px 103px;
+     text-align: center;
+     text-decoration: none;
+     font-size: 13px;
+     margin: 10px;
+     border-radius: 22px;
+ }
