@@ -34,16 +34,17 @@ h5{
     border-radius: 5px;
 }
 
-.top-banner{
+/* .top-banner{
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-}
+} */
 .dream-big{
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-position: right;
 }
 .experience-item{
+    border-radius: 45px;
     width: 30%;
     margin-left: 5%;
     margin-right: 5%;
@@ -52,6 +53,7 @@ h5{
 }
 .experience-item img{
     width: 90%; 
+    margin-top: 20px;
 }
 footer{
     background-color: black;
@@ -80,8 +82,10 @@ footer p {
     border-radius: 22px;
   }
 
- .button2{
+ .button2 {
      background-color: orangered;
+
+     
  } 
  .button2{
      border: none;
